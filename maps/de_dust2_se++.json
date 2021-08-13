@@ -1,0 +1,281 @@
+[
+    {
+      "name": ["Catwalk", "Barrels"],
+      "weapon": "weapon_molotov",
+      "position": [38.92658996582, 1502.4296875, 0.03125],
+      "viewangles": [-13.550743103027, -129.79914855957],
+      "grenade": {
+        "run": 20
+      }
+    },
+    {
+      "name": ["Catwalk", "Barrels"],
+      "weapon": "weapon_hegrenade",
+      "position": [33.494571685791, 1492.9251708984, 0.03125],
+      "viewangles": [0.06571926176548, -131.37800598145],
+      "grenade": {
+        "run": 30,
+        "delay": 6,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Catwalk", "Wall + FD"],
+      "weapon": "weapon_molotov",
+      "position": [82.646240234375, 1360.0059814453, 0.03125],
+      "viewangles": [-16.379312515259, 50.818809509277]
+    },
+    {
+      "name": ["Catwalk", "FD"],
+      "weapon": "weapon_hegrenade",
+      "position": [125.05126953125, 1360.0313720703, 0.03125],
+      "viewangles": [-13.616550445557, 58.764945983887]
+    },
+    {
+      "name": ["Catwalk", "Wall"],
+      "weapon": "weapon_hegrenade",
+      "position": [82.648742675781, 1360.0090332031, 0.03125],
+      "viewangles": [-16.445093154907, 50.818809509277],
+      "grenade": {
+        "run": 1
+      }
+    },
+    {
+      "name": ["Short Stairs", "Site"],
+      "description": "FULL",
+      "weapon": "weapon_molotov",
+      "position": [361.12664794922, 1833.7329101563, 96.03125],
+      "viewangles": [-13.024572372437, 56.161163330078],
+      "grenade": {
+        "run": 10
+      }
+    },
+    {
+      "name": ["Short Stairs", "Back of A"],
+      "weapon": "weapon_molotov",
+      "position": [272.03503417969, 1708.0216064453, 58.710716247559],
+      "viewangles": [-21.510242462158, 55.437591552734],
+      "grenade": {
+        "run": 15,
+        "delay": 17,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Short Stairs", "Barrels"],
+      "weapon": "weapon_molotov",
+      "position": [298.35171508789, 1767.3540039063, 96.03125],
+      "viewangles": [-25.193971633911, 48.479106903076],
+      "grenade": {
+        "run": 5,
+        "delay": 18,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Short Stairs", "Site"],
+      "weapon": "weapon_hegrenade",
+      "position": [361.13037109375, 1833.7391357422, 96.03125],
+      "viewangles": [-13.024572372437, 56.161163330078],
+      "grenade": {
+        "run": 20
+      }
+    },
+    {
+      "name": ["Catwalk", "City | Anti-peek"],
+      "weapon": "weapon_molotov",
+      "position": [-139.60540771484, 1337.4041748047, 0.03125],
+      "viewangles": [-12.629811286926, 133.70237731934],
+      "grenade": {
+        "run": 10
+      }
+    },
+    {
+      "name": ["Mid Doors", "B Site"],
+      "description": "Window",
+      "weapon": "weapon_molotov",
+      "position": [-353.18322753906, 1863.3922119141, -126.93937683105],
+      "viewangles": [-23.74667930603, 138.4766998291],
+      "grenade": {
+        "run": 30,
+        "recovery_jump": true,
+        "recovery_yaw": 90
+      }
+    },
+    {
+      "name": ["B Doors", "Barrels"],
+      "weapon": "weapon_molotov",
+      "position": [-719.48864746094, 2425.8923339844, -92.573310852051],
+      "viewangles": [-0.72368723154068, -70.125610351563],
+      "grenade": {
+        "run": 52,
+        "recovery_jump": true,
+        "recovery_yaw": -90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Hole", "CT Spawn"],
+      "weapon": "weapon_molotov",
+      "position": [-1419.8483886719, 2628.2182617188, 117.03125],
+      "viewangles": [9.0117053985596, -20.264259338379],
+      "grenade": {
+        "run": 1,
+        "delay": 5,
+        "run_yaw": 180,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Hole", "Mid-Doors"],
+      "weapon": "weapon_molotov",
+      "position": [-1419.7717285156, 2628.2087402344, 117.03125],
+      "viewangles": [8.8801651000977, -32.630981445313],
+      "grenade": {
+        "run": 1,
+        "delay": 8,
+        "run_yaw": 180,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Long Doors", "Pit"],
+      "weapon": "weapon_molotov",
+      "position": [528.01721191406, 537.48468017578, 2.6979064941406],
+      "viewangles": [-72.621803283691, 0.96922367811203],
+      "grenade": {
+        "run": 30,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Long Doors", "Long | Wall peek"],
+      "weapon": "weapon_molotov",
+      "position": [170.9412689209, -289.80117797852, 59.532867431641],
+      "viewangles": [1.4460150003433, 52.542217254639],
+      "grenade": {
+        "run": 15,
+        "delay": 5,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Long Doors", "Pit"],
+      "description": "low hp",
+      "weapon": "weapon_hegrenade",
+      "position": [674.05780029297, 750.13879394531, 3.7538909912109],
+      "viewangles": [11.181436538696, -28.959129333496],
+      "grenade": {
+        "run": 20,
+        "delay": 5,
+        "run_yaw": 90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Long Doors", "Pit"],
+      "description": "high dmg | unsafe",
+      "weapon": "weapon_hegrenade",
+      "position": [690.23461914063, 789.73681640625, 5.5950775146484],
+      "viewangles": [0.32769221067429, -4.8178434371948],
+      "grenade": {
+        "run": 10,
+        "recovery_jump": true,
+        "recovery_yaw": 180
+      }
+    },
+    {
+      "name": ["Short Stairs", "A Ramp"],
+      "weapon": "weapon_molotov",
+      "position": [333.85104370117, 1813.7731933594, 96.03125],
+      "viewangles": [-18.616989135742, 53.872619628906],
+      "grenade": {
+        "run": 25,
+        "recovery_jump": true,
+        "recovery_yaw": -90
+      }
+    },
+    {
+      "name": ["CT Start", "Site"],
+      "weapon": "weapon_molotov",
+      "position": [408.40081787109, 2365.9313964844, -126.96875],
+      "viewangles": [-10.657586097717, -42.941661834717],
+      "grenade": {
+        "run": 25,
+        "jump": true
+      }
+    },
+    {
+      "name": ["CT Start", "Short"],
+      "weapon": "weapon_molotov",
+      "position": [-120.19925689697, 2171.9453125, -125.37261962891],
+      "viewangles": [-7.960645198822, -134.90202331543],
+      "grenade": {
+        "run": 30,
+        "jump": true
+      }
+    },
+    {
+      "name": ["CT Start", "Site"],
+      "weapon": "weapon_hegrenade",
+      "position": [408.41738891602, 2365.9301757813, -126.96875],
+      "viewangles": [-11.381162643433, -43.928371429443],
+      "grenade": {
+        "run": 28,
+        "jump": true
+      }
+    },
+    {
+      "name": ["A Ramp", "Short Stairs"],
+      "weapon": "weapon_molotov",
+      "position": [1379.6995849609, 2419.0629882813, 36.978424072266],
+      "viewangles": [-24.274129867554, -157.84539794922],
+      "grenade": {
+        "run": 1
+      }
+    },
+    {
+      "name": ["Unnamed", "Pit"],
+      "weapon": "weapon_molotov",
+      "position": [1051.3249511719, 2504.7697753906, 170.03125],
+      "viewangles": [3.1561150550842, -74.421920776367],
+      "grenade": {
+        "run": 20,
+        "delay": 10,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Hole", "Tunnel"],
+      "weapon": "weapon_molotov",
+      "position": [-1260.1684570313, 2667.791015625, 120.15289306641],
+      "viewangles": [6.5109086036682, -129.47872924805],
+      "grenade": {
+        "run": 1,
+        "delay": 5,
+        "run_yaw": 180,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Hole", "BOX"],
+      "weapon": "weapon_molotov",
+      "position": [-1225.3487548828, 2688.6931152344, 111.73358154297],
+      "viewangles": [-18.090793609619, -114.51803588867],
+      "grenade": {
+        "delay": 20,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Hole", "BOX"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1225.3729248047, 2688.6791992188, 111.73358154297],
+      "viewangles": [-18.090793609619, -113.92601013184],
+      "grenade": {
+        "run": 1,
+        "delay": 25,
+        "jump": true
+      }
+    }
+  ]
