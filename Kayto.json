@@ -2,5 +2,5 @@
     "name": "Kayto nades!",
     "description": "DAITE DENEG",
     "update_timestamp": 1627219125,
-    "url_format": "https://github.com/kokoshvh/My-nades/tree/main/maps.json"
+    "url_format": "https://github.com/kokoshvh/My-nades/tree/main/maps/%map%.json"
 }
